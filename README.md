@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd year CSE student (moving to 3rd year)
+- 🎓 3nd year CSE student
 - 🔨 Currently building: **Developer Roadmap Tracker** — a tool to help developers track their learning journey
 - 💻 Practicing DSA daily on LeetCode
 - 🌱 Currently learning: **React.js & Backend Development**
